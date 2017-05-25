@@ -1,0 +1,1 @@
+# Vanilla Gradient Descent
